@@ -29,6 +29,7 @@ public class Ejemplo01 {
                 System.out.printf("%s\n", "Trabajar con AND");
                 
             }else{
+               
                 if (opcion==2) {
                     System.out.printf("%s\n", "Trabajar con OR");
                 }else{
@@ -44,3 +45,9 @@ public class Ejemplo01 {
     }
 
 }
+
+/*
+un usuario debe ingresar en opcion el valor de 1, luego se evalua la condicion 
+en la linea 28 y si es 1 ==1
+entonces le presentara en pantalla Trabajar con and
+*/
